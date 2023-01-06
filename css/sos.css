@@ -1,0 +1,241 @@
+
+html {
+	background-color: #faf0e6;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	margin-left: 3rem;
+	margin-right: 3rem;
+}
+
+hr {
+	color: sierra;
+	height: 4px;
+	<!--
+	display: block;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	margin-left: auto;
+	margin-right: auto;
+	border-style: inset;
+	border-width: 1px;
+	-->
+}
+
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: sienna;
+  background-color: transparent;
+  text-decoration: none;
+}
+<!--
+a:hover {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+-->
+.div_background {
+	background-color: #faf0e6;
+	}
+
+.div_header {
+	border: 2px burlywood;
+	border-style: solid;
+	background-color: #f5deb3;
+	padding-top: 20px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+	padding-right: 10px;
+	}
+
+.div_header2 {
+	background-color: #f5deb3;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+	padding-right: 10px;
+	}
+
+.div_maintitle {
+	margin-top: 1rem;
+	background-color: #faf0e6;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	}
+
+.div_topicttitle {
+	margin-top: 1rem;
+	background-color: #faf0e6;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	}
+
+.div_newsttitle {
+	margin-top: 1rem;
+	background-color: #faf0e6;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	}
+
+.div_categorytitle {
+	margin-top: 1rem;
+	background-color: #faf0e6;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	}
+
+.div_topicsection {
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	background-color: #faf0e6;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	}
+
+.div_newssection {
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	background-color: #faf0e6;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	}
+
+.div_topics {
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	background-color: #faf0e6;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+	padding-right: 0px;
+	}
+
+.div_newssidebar {
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	background-color: #faebd7;
+  	outline: 4px ridge burlywood;
+  	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	}
+
+.div_footer {
+	border: 2px burlywood;
+	border-style: solid;
+	background-color: #f5deb3;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 40px;
+	padding-right: 40px;
+	}
+
+.text-date {
+	font-family: 'Raleway', sans-serif;
+	font-size: 0.75rem;
+	}
+
+.text-menu {
+	font-family: 'Raleway', sans-serif;
+	font-size: 1.2rem;
+	line-height: 1.2;
+	}
+
+.text-header {
+	font-family: 'Raleway', sans-serif;
+	font-size: 2.5rem;
+	font-weight: bold;
+	line-height: 1.1;
+	}
+
+.text-header2 {
+	color: sienna;
+	font-family: 'Raleway', sans-serif;
+	font-size: 1.0rem;
+	line-height: 1.1;
+	}
+
+.text-pagetitle {
+	font-family: 'Raleway', sans-serif;
+	font-size: 2.1rem;
+	font-weight: bold;
+	line-height: 1.3;
+	}
+
+.text-pagedesc {
+	font-family: 'Raleway', sans-serif;
+	font-size: 1.1rem;
+	line-height: 1.1;
+	}
+
+.text-title {
+	font-family: 'Raleway', sans-serif;
+	font-size: 1.6rem;
+	font-weight: bold;
+	line-height: 1.3;
+	}
+
+.text-section {
+	font-family: 'Raleway', sans-serif;
+	font-size: 1.2rem;
+	line-height: 1.2;
+	}
+
+.text-topics {
+	font-family: 'Raleway', sans-serif;
+	font-size: 1.4rem;
+	line-height: 1.2;
+	}
+
+.text-news {
+	font-family: 'Raleway', sans-serif;
+	font-size: 1.0rem;
+	line-height: 1.2;
+	}
+
+.text-footer {
+	color: sienna;
+	font-family: 'Raleway', sans-serif;
+	font-size: 1.0rem;
+	line-height: 1.1;
+	}
+
+<!--
+.button1 {
+	background-color: #FFF8DC;
+	text-align: center;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	bottom: 0%;
+	left: 50%;
+	transform: translate(-50%);
+	}
+.button1:hover {
+	background-color: #4CAF50;
+	color: white;
+	}
+-->
